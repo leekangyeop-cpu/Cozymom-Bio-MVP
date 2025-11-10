@@ -228,7 +228,6 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <div className="inline-flex items-center bg-blue-100 text-blue-700 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-                <span className="mr-2">🤖</span>
                 <span>AI-Powered MFDS Compliance Checker</span>
               </div>
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
@@ -506,7 +505,7 @@ export default function Home() {
                   AI가 배합을 분석 중입니다...
                 </span>
               ) : (
-                '🤖 AI로 배합 검증하기'
+                'AI로 배합 검증하기'
               )}
             </button>
 
