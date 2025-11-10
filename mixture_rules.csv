@@ -1,0 +1,9 @@
+base_ingredient,paired_ingredient,rule_type,limit_value_min,limit_value_max,limit_unit,note
+알부민,비타민C,ratio_min_max,0.05,0.20,ratio,단백질+비타민C 복합 권장비율(데모)
+알부민,,max_percent_total,,10,percent_total,총 배합량 대비 알부민 ≤ 10%(데모)
+홍삼농축액,,max_percent_total,,5,percent_total,홍삼농축액 총량 상한 5%(데모)
+나이아신,비오틴,ratio_min_max,0.01,0.05,ratio,피부계통 복합 조합 주의(데모)
+오메가3지방산,,max_percent_total,,25,percent_total,총량 대비 오메가3 ≤ 25%(제형 가정)
+칼슘,마그네슘,ratio_min_max,0.5,3.0,ratio,칼마비 비율 가이드(데모 범위)
+비타민D,칼슘,ratio_min_max,0.005,0.05,ratio,비타민D:칼슘 보조비율(데모)
+철,아연,ratio_min_max,0.1,1.0,ratio,흡수 경쟁 주의: 철:아연 비율 가이드(데모)
